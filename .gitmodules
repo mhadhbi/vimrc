@@ -1,0 +1,69 @@
+[submodule "_vim/bundle/fugitive"]
+	path = _vim/bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "_vim/bundle/nerdtree"]
+	path = _vim/bundle/nerdtree
+	url = http://github.com/scrooloose/nerdtree.git
+[submodule "_vim/bundle/NrrwRgn"]
+	path = _vim/bundle/NrrwRgn
+	url = git://github.com/chrisbra/NrrwRgn.git
+[submodule "_vim/bundle/ack"]
+	path = _vim/bundle/ack
+	url = https://github.com/mileszs/ack.vim
+[submodule "_vim/bundle/ctrlp"]
+	path = _vim/bundle/ctrlp
+	url = https://github.com/kien/ctrlp.vim
+[submodule "_vim/bundle/vim-buffergator"]
+	path = _vim/bundle/vim-buffergator
+	url = https://github.com/jeetsukumaran/vim-buffergator
+[submodule "_vim/bundle/current-func-info"]
+	path = _vim/bundle/current-func-info
+	url = https://github.com/tyru/current-func-info.vim
+[submodule "_vim/bundle/delimitMate"]
+	path = _vim/bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate
+[submodule "_vim/bundle/gundo"]
+	path = _vim/bundle/gundo
+	url = https://github.com/sjl/gundo.vim
+[submodule "_vim/bundle/snipmate"]
+	path = _vim/bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim
+[submodule "_vim/bundle/nerdcommenter"]
+	path = _vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "_vim/bundle/vim-repeat"]
+	path = _vim/bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "_vim/bundle/repmo"]
+	path = _vim/bundle/repmo
+	url = git://github.com/vim-scripts/repmo.vim.git
+[submodule "_vim/bundle/syntastic"]
+	path = _vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "_vim/bundle/tasklist"]
+	path = _vim/bundle/tasklist
+	url = git://github.com/vim-scripts/TaskList.vim.git
+[submodule "_vim/bundle/vim-surround"]
+	path = _vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "_vim/bundle/vim-colors-solarized"]
+	path = _vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "_vim/bundle/vim-css-color"]
+	path = _vim/bundle/vim-css-color
+	url = https://github.com/skammer/vim-css-color
+[submodule "_vim/bundle/vim-gf-python"]
+	path = _vim/bundle/vim-gf-python
+	url = https://github.com/mkomitee/vim-gf-python
+[submodule "_vim/bundle/vim-markdown"]
+	path = _vim/bundle/vim-markdown
+	url = https://github.com/tpope/vim-markdown
+[submodule "_vim/bundle/vim-powerline"]
+	path = _vim/bundle/vim-powerline
+	url = git://github.com/Lokaltog/vim-powerline.git
+[submodule "_vim/bundle/vim-rooter"]
+	path = _vim/bundle/vim-rooter
+	url = https://github.com/airblade/vim-rooter
+[submodule "_vim/bundle/taglist"]
+	path = _vim/bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim
