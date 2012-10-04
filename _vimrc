@@ -387,11 +387,11 @@ endif
 " }}}
 
 " Highlighting {{{
-	if &t_Co >= 256 || has("gui_running")
-		colorscheme solarized 
+    if &t_Co >= 256 || has("gui_running")
 		let g:solarized_termtrans=1
 		let g:solarized_degrade=1
-	endif
+		colorscheme solarized 
+    endif
 " }}}
 
 " Restore cursor position upon reopening files {{{
