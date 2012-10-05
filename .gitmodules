@@ -49,9 +49,6 @@
 [submodule "_vim/bundle/vim-colors-solarized"]
 	path = _vim/bundle/vim-colors-solarized
 	url = https://github.com/altercation/vim-colors-solarized
-[submodule "_vim/bundle/vim-css-color"]
-	path = _vim/bundle/vim-css-color
-	url = https://github.com/skammer/vim-css-color
 [submodule "_vim/bundle/vim-gf-python"]
 	path = _vim/bundle/vim-gf-python
 	url = https://github.com/mkomitee/vim-gf-python
